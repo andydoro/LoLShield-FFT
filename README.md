@@ -20,10 +20,9 @@ http://www.instructables.com/id/LoL-Shield-Audio-Spectrum-VU-Meter/
 
 Hardware:
  
- - Arduino or Arduino-compatible
- - LoL Shield
- - audio source
+- Arduino or Arduino-compatible
+- LoL Shield
+- audio source
 
-
- Requires FFT and Charlieplexing libraries. The ones included here may be out of date.
+Requires FFT and Charlieplexing libraries. The ones included here may be out of date.
 
