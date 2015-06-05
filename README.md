@@ -24,5 +24,6 @@ Hardware:
  - LoL Shield
  - audio source
 
+
  Requires FFT and Charlieplexing libraries. The ones included here may be out of date.
 
